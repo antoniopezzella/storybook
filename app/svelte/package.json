@@ -43,7 +43,7 @@
   },
   "devDependencies": {
     "@types/webpack-env": "^1.15.2",
-    "svelte": "^3.18.1",
+    "svelte": "^5.57.1",
     "svelte-loader": "^2.13.4"
   },
   "peerDependencies": {

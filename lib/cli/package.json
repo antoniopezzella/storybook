@@ -37,7 +37,7 @@
     "postversion": "node -r esm ./scripts/generate-sb-packages-versions.js"
   },
   "dependencies": {
-    "@babel/core": "^7.9.6",
+    "@babel/core": "^8.0.6",
     "@babel/preset-env": "^7.9.6",
     "@storybook/codemod": "6.1.0-alpha.1",
     "@storybook/node-logger": "6.1.0-alpha.1",
